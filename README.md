@@ -379,20 +379,6 @@ This project is developed for educational and research purposes.
 
 ---
 
-# 👨‍💻 Author
 
-**Atharva Patil**
-
-Computer Engineering Student
-
-Atharva College of Engineering
-
-Mumbai, India
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 ## ⭐ If you like this project, don't forget to Star the repository!
