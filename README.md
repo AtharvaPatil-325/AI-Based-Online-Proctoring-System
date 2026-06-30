@@ -253,31 +253,36 @@ http://127.0.0.1:8000
 
 ## 🏠 Home Page
 
-> Add Screenshot Here
+<img width="1353" height="628" alt="Ui" src="https://github.com/user-attachments/assets/9eeef38b-3061-43f3-8881-95790f9f77eb" />
+
 
 ---
 
 ## 👤 Student Registration
 
-> Add Screenshot Here
+<img width="1161" height="625" alt="login" src="https://github.com/user-attachments/assets/045dff3b-509d-441a-a4bc-d74a926d5fbc" />
 
 ---
 
 ## 📋 Admin Dashboard
 
-> Add Screenshot Here
+<img width="1345" height="632" alt="Admin dashboard" src="https://github.com/user-attachments/assets/45efc977-9dc5-4ecf-961d-0c480bc64d72" />
+
 
 ---
 
 ## ⚠ Tab Switch Detection
 
-> Add Screenshot Here
+<img width="654" height="215" alt="tab switch" src="https://github.com/user-attachments/assets/fb0b5170-391b-4599-b62e-5f29f7a05a92" />
+
+
 
 ---
 
 ## 📈 Student Report
 
-> Add Screenshot Here
+<img width="596" height="393" alt="Report generated" src="https://github.com/user-attachments/assets/d820101b-20af-45b6-8a9e-9f41b8d95b7c" />
+
 
 ---
 
